@@ -1,9 +1,9 @@
 {
-  "title": "",
-  "description": "",
-  "keywords": "",
-  "url": "",
-  "image": "",
-  "site_name": "",
+  "title": "Social Share Button",
+  "description": "Social Share Buttonの実験サイト",
+  "keywords": "SNS, シェア",
+  "url": "http://gonshi.github.io/social/",
+  "image": "http://gonshi.github.io/social/img/gplus-64.png",
+  "site_name": "gonshi.github.io",
   "viewport": 640
 }

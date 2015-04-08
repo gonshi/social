@@ -1,2 +1,13 @@
 .sp
   display: none
+
+.wrapper
+  position: absolute 
+  +trbl(0, 0, 0, 0)
+
+.gplus
+  position: absolute
+  +trbl(0, 0, 0, 0)
+  +image-size("gplus-64.png")
+  margin: auto
+  @extend %hoverEffect
